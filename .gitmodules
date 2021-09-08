@@ -1,0 +1,4 @@
+[submodule "denizcanoguz/public"]
+	path = denizcanoguz/public
+	url = https://github.com/denizcanoguz/denizcanoguz.github.io.git
+	branch = main
